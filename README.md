@@ -11,7 +11,7 @@ Este é um projeto de algoritmos desenvolvido para a Unesc.
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/moisesrib/algorithm-structure]
+git clone https://github.com/moisesrib/algorithm-structure
 cd client
 ```
 
